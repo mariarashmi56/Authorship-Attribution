@@ -1,4 +1,4 @@
-"# Authorship-Attribution" 
+Authorship-Attribution
 
 Problem statement: Identify author of a given tweet
 Challenge : Over 30K authors, hence most classifiers fail with memory error
